@@ -1,4 +1,4 @@
-# 📚 RAG Book Assistant
+# 📚 Documind
 
 Chat with any PDF book. Upload a document, ask questions in plain English, and get answers **grounded in the text**, with the exact source pages shown for every reply.
 
