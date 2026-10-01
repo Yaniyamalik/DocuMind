@@ -62,3 +62,10 @@ htmlcov/
 .cache/
 *.bin
 *.safetensors
+
+node_modules/
+.next/
+.env
+chroma_db/
+.venv/
+__pycache__/
